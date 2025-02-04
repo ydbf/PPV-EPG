@@ -1,0 +1,38 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: "0 0/24 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (no history)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install requests pytz
+
+      - name: Run EPG grabber script
+        env:
+          M3U4U_EPG: ${{ secrets.M3U4U_EPG }}
+        run: |
+          python epg-grabber/getEpgs.py
+
+      - name: Force commit and push the changes (no history)
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git add epg.xml epg.xml.gz
+          git commit -m "Update EPG"
+          git push --force
