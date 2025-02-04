@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
 #EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
