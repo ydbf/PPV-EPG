@@ -71,159 +71,6 @@
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png" />
     <url>http://www.sky.co.nz</url>
   </channel>
-  <programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="ESPN..nz">
-    <title lang="en">Championship Drive</title>
-    <desc lang="en">College gridiron analysts and reporters meet to discuss and debate who belongs in the playoff race.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101003000 +0000" stop="20260101003700 +0000" channel="ESPN..nz">
-    <title lang="en">College Kickoff</title>
-    <desc lang="en">Highlights, news and analysis on today's bowl game action.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101003700 +0000" stop="20260101041000 +0000" channel="ESPN..nz">
-    <title lang="en">College Football: Ohio State v Miami</title>
-    <desc lang="en">Ohio State v Miami Quarterfinal #1: The Hurricanes and Buckeyes clash for a prime-time gridiron showdown; the Fiesta Bowl awaits the victor.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101041000 +0000" stop="20260101050000 +0000" channel="ESPN..nz">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">with Scott Van Pelt: The late-night edition of the iconic news and highlights show, hosted by Scott Van Pelt, featuring interviews with the biggest newsmakers in sports and signature segments such ...</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101050000 +0000" stop="20260101070000 +0000" channel="ESPN..nz">
-    <title lang="en">AEW Dynamite</title>
-    <desc lang="en">Dynamite is AEW's weekly flagship program.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101070000 +0000" stop="20260101073000 +0000" channel="ESPN..nz">
-    <title lang="en">SC: NFL Blitz</title>
-    <desc lang="en">NFL Blitz features action packed highlights and news around the NFL.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101073000 +0000" stop="20260101080000 +0000" channel="ESPN..nz">
-    <title lang="en">NBA Mini</title>
-    <desc lang="en">Thunder v Trail Blazers: Catch up on today's NBA action with a condensed, highlight driven version of the game.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="ESPN..nz">
-    <title lang="en">NBL Pregame</title>
-    <desc lang="en">Live: NBL Pregame.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101083000 +0000" stop="20260101103000 +0000" channel="ESPN..nz">
-    <title lang="en">NBL: Bullets v Wildcats</title>
-    <desc lang="en">Bullets v Wildcats.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101103000 +0000" stop="20260101123000 +0000" channel="ESPN..nz">
-    <title lang="en">NBA</title>
-    <desc lang="en">Thunder v Trail Blazers: The Trail Blazers head to Oklahoma, where they face Shai Gilgeous-Alexander and reigning champs OKC.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101123000 +0000" stop="20260101130000 +0000" channel="ESPN..nz">
-    <title lang="en">SC: NFL Blitz</title>
-    <desc lang="en">NFL Blitz features action packed highlights and news around the NFL.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101130000 +0000" stop="20260101140000 +0000" channel="ESPN..nz">
-    <title lang="en">Get Up</title>
-    <desc lang="en">Host Mike Greenberg brings fans up to speed every morning and a rotating panel of guests deliver expert analysis on all the latest from the world of sports.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101140000 +0000" stop="20260101170000 +0000" channel="ESPN..nz">
-    <title lang="en">College GameDay</title>
-    <desc lang="en">Live from campuses across the country every Saturday, ESPN's Emmy-winning college gridiron extravaganza brings you all the feel and flavor of college gridiron, with expert analysis and guests.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101170000 +0000" stop="20260101171000 +0000" channel="ESPN..nz">
-    <title lang="en">College Kickoff</title>
-    <desc lang="en">Highlights, news and analysis on today's bowl game action.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101171000 +0000" stop="20260101210000 +0000" channel="ESPN..nz">
-    <title lang="en">College Football: Texas Tech v Oregon</title>
-    <desc lang="en">Texas Tech v Oregon Quarterfinal #2: The gridiron New Year commences with the Ducks and Red Raiders brawling for a spot in the Peach Bowl.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101210000 +0000" stop="20260101211000 +0000" channel="ESPN..nz">
-    <title lang="en">College Kickoff</title>
-    <desc lang="en">Highlights, news and analysis on today's bowl game action.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101211000 +0000" stop="20260102005000 +0000" channel="ESPN..nz">
-    <title lang="en">College Football: Indiana v Alabama</title>
-    <desc lang="en">Indiana v Alabama Quarterfinal #3: The Tide and Hoosiers clash in Pasadena with a trip to the Peach Bowl and a semi-final gridiron berth at stake.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260102005000 +0000" stop="20260102010000 +0000" channel="ESPN..nz">
     <title lang="en">College Pregame</title>
     <desc lang="en">Highlights, news and analysis on today's bowl game action.</desc>
@@ -620,133 +467,61 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101000500 +0000" stop="20260101010000 +0000" channel="ESPN2.nz">
-    <title lang="en">30 For 30</title>
-    <desc lang="en">Dude Perfect: A Very Long Shot. The meteoric rise of a group of friends from College Station, Texas, whose backyard antics evolved into a global sports-comedy phenomenon.</desc>
+  <programme start="20260104113000 +0000" stop="20260104140000 +0000" channel="ESPN..nz">
+    <title lang="en">NFL</title>
+    <desc lang="en">49ers v Seahawks: The NFL's brightest stars prove their will to win each week.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101033000 +0000" channel="ESPN2.nz">
-    <title lang="en">NBA: Thunder v Trail Blazers</title>
-    <desc lang="en">Thunder v Trail Blazers: The Trail Blazers head to Oklahoma, where they face Shai Gilgeous-Alexander and reigning champs OKC.</desc>
+  <programme start="20260104140000 +0000" stop="20260104150000 +0000" channel="ESPN..nz">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">ESPN's must-see news show, featuring highlights and analysis of the biggest stories in sports. Da-Da-Da, Da-Da-Da.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101033000 +0000" stop="20260101053000 +0000" channel="ESPN2.nz">
-    <title lang="en">ReliaQuest Bowl</title>
-    <desc lang="en">Vanderbilt v Iowa: Heisman finalist Diego Pavia leads the Commodores into Tampa, Florida, to take on Big 10 foe Iowa.</desc>
+  <programme start="20260104150000 +0000" stop="20260104180000 +0000" channel="ESPN..nz">
+    <title lang="en">Sunday NFL Countdown</title>
+    <desc lang="en">ESPN's long-running NFL preview show, where analysts and reporters set up the entire slate with pregame breakdowns and in-depth features from around the league.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101053000 +0000" stop="20260101073000 +0000" channel="ESPN2.nz">
-    <title lang="en">College Football</title>
-    <desc lang="en">Utah v Nebraska: Utah aims to close an impressive gridiron season as Nebraska has an eye on the start of the post-Raiola era.</desc>
+  <programme start="20260104180000 +0000" stop="20260104210000 +0000" channel="ESPN..nz">
+    <title lang="en">NFL: Texans v Colts</title>
+    <desc lang="en">Texans v Colts: Touchdowns, moves that go down in history and the best American athletes can be found in the NFL. The franchises battle week after week in search of the ultimate goal: winning the Super Bowl.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101073000 +0000" stop="20260101080000 +0000" channel="ESPN2.nz">
-    <title lang="en">ESPN FC</title>
-    <desc lang="en">All the latest on international football. Features, exclusive interviews, debates and the must-see moments from the world's top football leagues and competitions.</desc>
+  <programme start="20260104210000 +0000" stop="20260104212500 +0000" channel="ESPN..nz">
+    <title lang="en">In Depth With</title>
+    <desc lang="en">Tony Romo: Former Dallas quarterback-turned-broadcaster Tony Romo gives his first interview since signing the contract that made him the highest-paid TV analyst ever.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101080000 +0000" stop="20260101100000 +0000" channel="ESPN2.nz">
-    <title lang="en">College Football</title>
-    <desc lang="en">Texas v Michigan: The Wolverines and Longhorns head to Orlando for an anticipated gridiron matchup between titans.</desc>
+  <programme start="20260104212500 +0000" stop="20260105003000 +0000" channel="ESPN..nz">
+    <title lang="en">NFL: Broncos v Chargers</title>
+    <desc lang="en">Broncos v Chargers: Touchdowns, moves that go down in history and the best American athletes can be found in the NFL. The franchises battle week after week in search of the ultimate goal: winning the Super Bowl.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101100000 +0000" stop="20260101120000 +0000" channel="ESPN2.nz">
-    <title lang="en">College Football</title>
-    <desc lang="en">Ohio State v Miami Quarterfinal #1: The Hurricanes and Buckeyes clash for a prime-time gridiron showdown; the Fiesta Bowl awaits the victor.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101120000 +0000" stop="20260101140000 +0000" channel="ESPN2.nz">
-    <title lang="en">College Football</title>
-    <desc lang="en">Utah v Nebraska: Utah aims to close an impressive season as Nebraska has an eye on the start of the post-Raiola era.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101140000 +0000" stop="20260101150000 +0000" channel="ESPN2.nz">
-    <title lang="en">Get Up</title>
-    <desc lang="en">Host Mike Greenberg brings fans up to speed every morning and a rotating panel of guests deliver expert analysis on all the latest from the world of sports.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="ESPN2.nz">
-    <title lang="en">First Take</title>
-    <desc lang="en">Stephen A. Smith debates the hottest stories in sports with a rotating roster of analysts, insiders and celebrity guests.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101160000 +0000" stop="20260101180000 +0000" channel="ESPN2.nz">
-    <title lang="en">The Rose Parade</title>
-    <desc lang="en">The unique ESPN pick'em game in which fans predict the winner of each and every Bowl Game.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101180000 +0000" stop="20260101200000 +0000" channel="ESPN2.nz">
-    <title lang="en">E:60</title>
-    <desc lang="en">Unrivaled: ESPN's award-winning Sunday morning sports magazine show, featuring the biggest names and the best stories in sports.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101200000 +0000" stop="20260101223000 +0000" channel="ESPN2.nz">
-    <title lang="en">NHL: Islanders v Utah</title>
-    <desc lang="en">Islanders v Utah: The world's best players face off for the chance to lift the greatest trophy in American sports: the Stanley Cup.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101223000 +0000" stop="20260101230000 +0000" channel="ESPN2.nz">
-    <title lang="en">Nothing But Net</title>
-    <desc lang="en">Best of 2025: ESPN's resident basketball insider Kane Pitman previews the upcoming NBA and NBL action.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101230000 +0000" stop="20260101233000 +0000" channel="ESPN2.nz">
+  <programme start="20260105003000 +0000" stop="20260105011500 +0000" channel="ESPN..nz">
     <title lang="en">SC: NFL Blitz</title>
     <desc lang="en">NFL Blitz features action packed highlights and news around the NFL.</desc>
     <category lang="en">Show</category>
@@ -755,9 +530,54 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101233000 +0000" stop="20260102000000 +0000" channel="ESPN2.nz">
-    <title lang="en">Nothing But Net</title>
-    <desc lang="en">ESPN's resident basketball insider Kane Pitman previews the upcoming NBA and NBL action.</desc>
+  <programme start="20260105011500 +0000" stop="20260105043000 +0000" channel="ESPN..nz">
+    <title lang="en">NFL: Steelers v Ravens</title>
+    <desc lang="en">Steelers v Ravens: Touchdowns, runs, and shocking tackles, plays that go down in history. The gridiron elite face off season after season in pursuit of the Vince Lombardi trophy.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105043000 +0000" stop="20260105070000 +0000" channel="ESPN..nz">
+    <title lang="en">NFL</title>
+    <desc lang="en">Giants v Cowboys: Touchdowns, moves that go down in history and the best American athletes can be found in the NFL. The franchises battle week after week in search of the ultimate goal: winning the Super Bowl.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105070000 +0000" stop="20260105073000 +0000" channel="ESPN..nz">
+    <title lang="en">NFL Mini</title>
+    <desc lang="en">Giants v Cowboys: NFL Minis are shortened, highlight driven recaps of NFL action!</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105073000 +0000" stop="20260105083000 +0000" channel="ESPN..nz">
+    <title lang="en">NBL: Overtime</title>
+    <desc lang="en">Discussion and analysis of all things NBL.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105083000 +0000" stop="20260105103000 +0000" channel="ESPN..nz">
+    <title lang="en">NBL: Kings v Phoenix</title>
+    <desc lang="en">Kings v Phoenix.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105103000 +0000" stop="20260105123000 +0000" channel="ESPN..nz">
+    <title lang="en">NBA</title>
+    <desc lang="en">Lakers v Grizzlies: LeBron James and the LA Lakers host the Memphis Grizzlies.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -1124,180 +944,135 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101003000 +0000" stop="20260101004500 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">BBL: Thunder v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 16th match of the Big Bash League between Sydney Thunder and Perth Scorchers at ENGIE Stadium, Sydney.</desc>
+  <programme start="20260104120000 +0000" stop="20260104140000 +0000" channel="ESPN2.nz">
+    <title lang="en">NHL</title>
+    <desc lang="en">Red Wings v Penguins: The world's best players face off for the chance to lift the greatest trophy in American sports: the Stanley Cup.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101004500 +0000" stop="20260101010000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260104140000 +0000" stop="20260104153000 +0000" channel="ESPN2.nz">
+    <title lang="en">College Basketball</title>
+    <desc lang="en">Texas Tech v Oklahoma State: Catch college basketball's top regional rivalries and conference matchups.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101030000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">PL: Arsenal v Aston Villa</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Arsenal and Aston Villa at Emirates Stadium, London.</desc>
+  <programme start="20260104153000 +0000" stop="20260104180000 +0000" channel="ESPN2.nz">
+    <title lang="en">Fantasy Now</title>
+    <desc lang="en">Field Yates, Stephania Bell, Mike Clay, Damien Woody, Louis Riddick, Daniel Dopp, Liz Loza and Eric Moody provide the latest info on fantasy gridiron news going into the day.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101030000 +0000" stop="20260101031500 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">BBL: Thunder v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 16th match of the Big Bash League between Sydney Thunder and Perth Scorchers at ENGIE Stadium, Sydney.</desc>
+  <programme start="20260104180000 +0000" stop="20260104210000 +0000" channel="ESPN2.nz">
+    <title lang="en">NFL: Giants v Cowboys</title>
+    <desc lang="en">Giants v Cowboys: Touchdowns, moves that go down in history and the best American athletes can be found in the NFL. The franchises battle week after week in search of the ultimate goal: winning the Super Bowl.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101031500 +0000" stop="20260101033000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260104210000 +0000" stop="20260104220000 +0000" channel="ESPN2.nz">
+    <title lang="en">College Basketball: Iowa State v Baylor</title>
+    <desc lang="en">Iowa State v Baylor: Catch college basketball's top regional rivalries and conference matchups.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101033000 +0000" stop="20260101034500 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">A-League Men: MVC v WEL R10 Hls</title>
-    <desc lang="en">Highlights of A-League Men 2025/26 Round 10 as Melbourne Victory take on Wellington Phoenix at AAMI Park, Australia.</desc>
+  <programme start="20260104220000 +0000" stop="20260105003000 +0000" channel="ESPN2.nz">
+    <title lang="en">NHL: Panthers v Avalanche</title>
+    <desc lang="en">Panthers v Avalanche: The world's best players face off for the chance to lift the greatest trophy in American sports: the Stanley Cup.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101034500 +0000" stop="20260101062000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">A-League Men: AFC v NEW R11</title>
-    <desc lang="en">LIVE coverage of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
+  <programme start="20260105003000 +0000" stop="20260105013000 +0000" channel="ESPN2.nz">
+    <title lang="en">2025 WSOP Main Event</title>
+    <desc lang="en">Day 6, Part 3: 2025 WSOP Main Event - Day 6 Part 3 Just over 100 players remain as Day 6 of the Main Event marches on.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101062000 +0000" stop="20260101063500 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">PL: Arsenal v Aston Villa Hls</title>
-    <desc lang="en">Highlights from Match Week 19 of the Premier League between Arsenal and Aston Villa at Emirates Stadium, London.</desc>
+  <programme start="20260105013000 +0000" stop="20260105023000 +0000" channel="ESPN2.nz">
+    <title lang="en">2025 WSOP Main Event</title>
+    <desc lang="en">Day 6, Part 4: The conclusion of Day 6 brings dramatic eliminations and exhilarating wins. Leo Margets continues her run as the last woman standing.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101063500 +0000" stop="20260101073500 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
+  <programme start="20260105023000 +0000" stop="20260105050000 +0000" channel="ESPN2.nz">
+    <title lang="en">NBA: Lakers v Grizzlies</title>
+    <desc lang="en">Lakers v Grizzlies: LeBron James and the LA Lakers host the Memphis Grizzlies.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101073500 +0000" stop="20260101075000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">A-League Women: WSW v WEL Hls</title>
-    <desc lang="en">Highlights of A-League Women 2025/26 as Western Sydney Wanderers take on Wellington Phoenix at Wanderers Football Park.</desc>
+  <programme start="20260105050000 +0000" stop="20260105053000 +0000" channel="ESPN2.nz">
+    <title lang="en">NFL Mini</title>
+    <desc lang="en">Texans v Colts: NFL Minis are shortened, highlight driven recaps of NFL action!</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101075000 +0000" stop="20260101102500 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">A-League Men: WSW v MWS R11</title>
-    <desc lang="en">LIVE coverage of A-League Men 2025/26 Round 11 as Western Sydney Wanderers take on Macarthur FC at Commbank Stadium, Australia.</desc>
+  <programme start="20260105053000 +0000" stop="20260105060000 +0000" channel="ESPN2.nz">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">All the latest on international football. Features, exclusive interviews, debates and the must-see moments from the world's top football leagues and competitions.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101102500 +0000" stop="20260101123000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">A-League Men: AFC v NEW R11</title>
-    <desc lang="en">Coverage of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
+  <programme start="20260105060000 +0000" stop="20260105080000 +0000" channel="ESPN2.nz">
+    <title lang="en">WNBL: Flames v Spirit</title>
+    <desc lang="en">Flames v Spirit.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101123000 +0000" stop="20260101163000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">World Darts Championship: D18 Aft</title>
-    <desc lang="en">LIVE coverage of the PDC World Darts Championship, Day 18 afternoon session at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
+  <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="ESPN2.nz">
+    <title lang="en">NBA Mini</title>
+    <desc lang="en">Lakers v Grizzlies: Catch up on today's NBA action with a condensed, highlight driven version of the game.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101163000 +0000" stop="20260101164500 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">BBL: Renegades v Sixers Hls</title>
-    <desc lang="en">Highlights from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
+  <programme start="20260105083000 +0000" stop="20260105110000 +0000" channel="ESPN2.nz">
+    <title lang="en">NFL</title>
+    <desc lang="en">Texans v Colts: Touchdowns, moves that go down in history and the best American athletes can be found in the NFL. The franchises battle week after week in search of the ultimate goal: winning the Super Bowl.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101164500 +0000" stop="20260101170000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101170000 +0000" stop="20260101183000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">The Ashes: 4th Test Wrap</title>
-    <desc lang="en">Wrap of Day 5 of the Ashes fourth Test Match between Australia and England at the Melbourne Cricket Ground, Melbourne.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101183000 +0000" stop="20260101184500 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">BBL: Renegades v Sixers Hls</title>
-    <desc lang="en">Highlights from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101184500 +0000" stop="20260101190000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">BBL: Hurricanes v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 19th match of the Big Bash League between Hobart Hurricanes and Perth Scorchers at Ninja Stadium, Hobart.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101190000 +0000" stop="20260101230000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">World Darts Championship: D18 Eve</title>
-    <desc lang="en">LIVE coverage of the PDC World Darts Championship, Day 18 evening session at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101230000 +0000" stop="20260102010000 +0000" channel="Sky.Sport.1.nz">
-    <title lang="en">A-League Men: AFC v NEW R11</title>
-    <desc lang="en">Coverage of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
+  <programme start="20260105110000 +0000" stop="20260105113000 +0000" channel="ESPN2.nz">
+    <title lang="en">NFL Mini</title>
+    <desc lang="en">Steelers v Ravens: NFL Minis are shortened, highlight driven recaps of NFL action!</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -1664,144 +1439,198 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101030000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">QNS: England v Argentina</title>
-    <desc lang="en">Coverage from Round 4 of the Quilter Nations Series between England and Argentina at Allianz Stadium Twickenham, London.</desc>
+  <programme start="20260104141500 +0000" stop="20260104144000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">GP: Bath v Exeter Chiefs Hls</title>
+    <desc lang="en">Highlights from Round 9 of the Gallagher Premiership between Bath and the Exeter Chiefs at  the Recreation Ground, Bath.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101030000 +0000" stop="20260101040000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
+  <programme start="20260104144000 +0000" stop="20260104145500 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">GP: Bath v Exeter Chiefs Hls</title>
+    <desc lang="en">Highlights from Round 9 of the Gallagher Premiership between Bath and the Exeter Chiefs at  the Recreation Ground, Bath.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101040000 +0000" stop="20260101041500 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">BBL: Thunder v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 16th match of the Big Bash League between Sydney Thunder and Perth Scorchers at ENGIE Stadium, Sydney.</desc>
+  <programme start="20260104145500 +0000" stop="20260104170000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">GP: Leicester Tigers v Saracens</title>
+    <desc lang="en">LIVE coverage from Round 9 of the Gallagher Premiership between the Leicester Tigers and Saracens at Mattioli Woods Welford Road Stadium, Leicester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101041500 +0000" stop="20260101043000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260104170000 +0000" stop="20260104190000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">The Ashes: 5th Test Day 1 L2H</title>
+    <desc lang="en">Coverage from Day 1 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101043000 +0000" stop="20260101081500 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">BBL: Renegades v Sixers</title>
-    <desc lang="en">LIVE coverage from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
+  <programme start="20260104190000 +0000" stop="20260104191500 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">BBL: Stars v Renegades Hls</title>
+    <desc lang="en">Highlights from the 22nd match of the Big Bash League between Melbourne Stars and Melbourne Renegades at MCG, Melbourne.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101081500 +0000" stop="20260101121500 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">BBL: Hurricanes v Scorchers</title>
-    <desc lang="en">LIVE coverage from the 19th match of the Big Bash League between Hobart Hurricanes and Perth Scorchers at Ninja Stadium, Hobart.</desc>
+  <programme start="20260104191500 +0000" stop="20260104193000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">BBL: Scorchers v Strikers Hls</title>
+    <desc lang="en">Highlights from the 23rd match of the Big Bash League between Perth Scorchers and Adelaide Strikers at Perth Stadium, Perth.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101121500 +0000" stop="20260101123000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">BBL: Renegades v Sixers Hls</title>
-    <desc lang="en">Highlights from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
+  <programme start="20260104193000 +0000" stop="20260104194500 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Bournemouth v Arsenal Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Bournemouth and Arsenal at Vitality Stadium, Bournemouth.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101123000 +0000" stop="20260101124500 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260104194500 +0000" stop="20260104200000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Aston Villa v Nottingham Forest Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Aston Villa and Nottingham Forest at Villa Park, Birmingham.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101124500 +0000" stop="20260101130000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">BBL: Thunder v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 16th match of the Big Bash League between Sydney Thunder and Perth Scorchers at ENGIE Stadium, Sydney.</desc>
+  <programme start="20260104200000 +0000" stop="20260104201500 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Brighton v Burnley Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Brighton and Burnley at American Express Stadium, Falmer.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101130000 +0000" stop="20260101150000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">A-League Men: WSW v MWS R11</title>
-    <desc lang="en">Coverage of A-League Men 2025/26 Round 11 as Western Sydney Wanderers take on Macarthur FC at Commbank Stadium, Australia.</desc>
+  <programme start="20260104201500 +0000" stop="20260104203000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Wolves v West Ham Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Wolves and West Ham at Molineux Stadium, Wolverhampton.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101150000 +0000" stop="20260101170000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">A-League Men: AFC v NEW R11</title>
-    <desc lang="en">Coverage of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
+  <programme start="20260104203000 +0000" stop="20260104204500 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Leeds v Manchester United Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Leeds and Manchester United at Elland Road, Leeds.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101170000 +0000" stop="20260101172000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">PL: Manchester Utd v Wolves Hls</title>
-    <desc lang="en">Highlights from Match Week 19 of the Premier League between Manchester United and Wolverhampton Wanderers at Old Trafford, Stretford.</desc>
+  <programme start="20260104204500 +0000" stop="20260104210000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Everton v Brentford Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Everton and Brentford at Hill Dickinson Stadium, Liverpool.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101172000 +0000" stop="20260101195000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">PL: Crystal Palace v Fulham</title>
-    <desc lang="en">LIVE coverage from Match Week 19 of the Premier League between Crystal Palace and Fulham at Selhurst Park, London.</desc>
+  <programme start="20260104210000 +0000" stop="20260104211500 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Fulham v Liverpool Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Fulham and Liverpool at Craven Cottage, London.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101195000 +0000" stop="20260101221000 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">PL: Brentford v Spurs</title>
-    <desc lang="en">LIVE coverage from Match Week 19 of the Premier League between Brentford and Spurs at Gtech Community Stadium, Brentford.</desc>
+  <programme start="20260104211500 +0000" stop="20260104213000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Newcastle v Crystal Palace Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Newcastle United and Crystal Palace at St. James' Park, Newcastle.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101221000 +0000" stop="20260101234500 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">The Ashes: 4th Test Wrap</title>
-    <desc lang="en">Wrap of Day 5 of the Ashes fourth Test Match between Australia and England at the Melbourne Cricket Ground, Melbourne.</desc>
+  <programme start="20260104213000 +0000" stop="20260104214500 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Spurs v Sunderland Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Spurs and Sunderland at Tottenham Hotspur Stadium, London.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101234500 +0000" stop="20260102001500 +0000" channel="Sky.Sport.2.nz">
-    <title lang="en">ILT20: Eliminator: Capitals v KRs Hls</title>
-    <desc lang="en">Highlights from the Eliminator of the International League T20 at Dubai International Cricket Stadium, Dubai. Dubai Capitals v Abu Dhabi Knight Riders.</desc>
+  <programme start="20260104214500 +0000" stop="20260104220000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">PL: Manchester City v Chelsea Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Manchester City and Chelsea at Etihad Stadium, Manchester.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104220000 +0000" stop="20260104223000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">The Ashes: 5th Test Day 1 Hls</title>
+    <desc lang="en">Highlights from Day 1 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104223000 +0000" stop="20260105073000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">The Ashes: 5th Test Day 2</title>
+    <desc lang="en">LIVE coverage from Day 2 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105073000 +0000" stop="20260105101500 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">A-League Men: MSW v AKL R17</title>
+    <desc lang="en">LIVE coverage of A-League Men 2025/26 Round 17 as Macarthur FC take on Auckland FC at Campbelltown Sports Stadium, Australia.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105101500 +0000" stop="20260105103000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">Tennis: Bayleys Open Hls</title>
+    <desc lang="en">Highlights from the 2025 Bayleys Open — a brand-new event on the ITF World Tennis Tour, held at the Waikato Tennis Centre in Hamilton.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105103000 +0000" stop="20260105110000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">World Darts Championship: D20 Hls</title>
+    <desc lang="en">Highlights of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105110000 +0000" stop="20260105113000 +0000" channel="Sky.Sport.1.nz">
+    <title lang="en">The Ashes: 5th Test Day 2 Hls</title>
+    <desc lang="en">Highlights from Day 2 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -2150,126 +1979,171 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101005500 +0000" stop="20260101043000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">World Darts Championship: D17 Eve</title>
-    <desc lang="en">Coverage of the PDC World Darts Championship, Day 17 evening session at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
+  <programme start="20260104153000 +0000" stop="20260104160000 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">The Ashes: 5th Test Day 1 Hls</title>
+    <desc lang="en">Highlights from Day 1 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101043000 +0000" stop="20260101063000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">Six Nations: Ireland v France</title>
-    <desc lang="en">Coverage from Round 4 of the 2025 Six Nations between Ireland and France at Aviva Stadium, Dublin.</desc>
+  <programme start="20260104160000 +0000" stop="20260104161500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">A-League Men: BRI v WEL R11 Hls</title>
+    <desc lang="en">Highlights of A-League Men 2025/26 Round 11 as Brisbane Roar take on Wellington Phoenix at Kayo Stadium, Australia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101063000 +0000" stop="20260101083000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">Six Nations: Scotland v Wales</title>
-    <desc lang="en">Coverage from Round 4 of the 2025 Six Nations between Scotland and Wales at Scottish Gas Murrayfield Stadium, Edinburgh.</desc>
+  <programme start="20260104161500 +0000" stop="20260104163000 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">A-League Women: BRI v WEL Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Brisbane Roar take on Wellington Phoenix at Kayo Stadium.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101083000 +0000" stop="20260101103000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">Six Nations: England v Italy</title>
-    <desc lang="en">Coverage from Round 4 of the 2025 Six Nations between England and Italy at Allianz Stadium, Twickenham.</desc>
+  <programme start="20260104163000 +0000" stop="20260104202500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">BBL: Stars v Renegades</title>
+    <desc lang="en">Coverage from the 22nd match of the Big Bash League between Melbourne Stars and Melbourne Renegades at MCG, Melbourne.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101103000 +0000" stop="20260101113000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
+  <programme start="20260104202500 +0000" stop="20260104221500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">2025: ASB Classic Women's Tennis Final</title>
+    <desc lang="en">Coverage of the Finals from 2025 ASB Classic Women's International Tennis held at ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101113000 +0000" stop="20260101130000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">The Ashes: 4th Test Wrap</title>
-    <desc lang="en">Wrap of Day 5 of the Ashes fourth Test Match between Australia and England at the Melbourne Cricket Ground, Melbourne.</desc>
+  <programme start="20260104221500 +0000" stop="20260105043000 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">ASB Classic Women's Tennis: D1</title>
+    <desc lang="en">LIVE coverage of the 2026 ASB Classic Women's International Tennis. Tune in for Day 1, Day Session from the ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101130000 +0000" stop="20260101140000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
+  <programme start="20260105043000 +0000" stop="20260105044500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">Tennis: EVES Open Hls</title>
+    <desc lang="en">Highlights from the 2025 EVES Open - an event on the ITF World Tennis Tour, held at the Papamoa Tennis Club in Tauranga.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101140000 +0000" stop="20260101183000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">ILT20: Eliminator: Capitals v KRs</title>
-    <desc lang="en">LIVE coverage from the Eliminator of the International League T20 at Dubai International Cricket Stadium, Dubai. Dubai Capitals v Abu Dhabi Knight Riders.</desc>
+  <programme start="20260105044500 +0000" stop="20260105083000 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">ASB Classic Women's Tennis: N1</title>
+    <desc lang="en">LIVE coverage of the 2026 ASB Classic Women's International Tennis. Tune in for Day 1, Night Session from the ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101183000 +0000" stop="20260101190000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">Sky Speed Best Of 2025</title>
-    <desc lang="en">Tues Dec 30th - The Best of Sky Speed for 2025.</desc>
+  <programme start="20260105083000 +0000" stop="20260105084500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">GP: Bristol Bears v Sale Sharks Hls</title>
+    <desc lang="en">Highlights from Round 9 of the Gallagher Premiership between the Bristol Bears and the Sale Sharks at Ashton Gate Stadium, Bristol.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101190000 +0000" stop="20260101191500 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">BBL: Renegades v Sixers Hls</title>
-    <desc lang="en">Highlights from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
+  <programme start="20260105084500 +0000" stop="20260105090000 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">GP: Bath v Exeter Chiefs Hls</title>
+    <desc lang="en">Highlights from Round 9 of the Gallagher Premiership between Bath and the Exeter Chiefs at  the Recreation Ground, Bath.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101191500 +0000" stop="20260101193000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">BBL: Hurricanes v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 19th match of the Big Bash League between Hobart Hurricanes and Perth Scorchers at Ninja Stadium, Hobart.</desc>
+  <programme start="20260105090000 +0000" stop="20260105091500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">GP: Northampton Saints v Harlequins Hls</title>
+    <desc lang="en">Highlights from Round 9 of the Gallagher Premiership between the Northampton Saints and Harlequins at cinch Stadium at Franklin's Gardens, Northampton.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101193000 +0000" stop="20260101213000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">A-League Men: AFC v NEW R11</title>
-    <desc lang="en">Coverage of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
+  <programme start="20260105091500 +0000" stop="20260105093000 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">GP: Leicester Tigers v Saracens Hls</title>
+    <desc lang="en">Highlights from Round 9 of the Gallagher Premiership between the Leicester Tigers and Saracens at Mattioli Woods Welford Road Stadium, Leicester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101213000 +0000" stop="20260101220000 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">TGL: New York v Atlanta Hls</title>
-    <desc lang="en">TGL 2026 tees off with New York facing Atlanta Drive in highlights from SoFi Center, Palm Beach Gardens, FL. Witness golf innovation at its best.</desc>
+  <programme start="20260105093000 +0000" stop="20260105094500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">PL: Brighton v Burnley Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Brighton and Burnley at American Express Stadium, Falmer.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101220000 +0000" stop="20260102054500 +0000" channel="Sky.Sport.3.nz">
-    <title lang="en">Bowls NZ National Champs D1</title>
-    <desc lang="en">LIVE coverage of Bowls New Zealand 2026: Summerset Nationals Singles and Pairs. Day 1 features Men's Singles rounds 2 - 4.</desc>
+  <programme start="20260105094500 +0000" stop="20260105100000 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">PL: Wolves v West Ham Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Wolves and West Ham at Molineux Stadium, Wolverhampton.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105100000 +0000" stop="20260105101500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">PL: Leeds v Manchester United Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Leeds and Manchester United at Elland Road, Leeds.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105101500 +0000" stop="20260105103000 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">PL: Everton v Brentford Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Everton and Brentford at Hill Dickinson Stadium, Liverpool.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105103000 +0000" stop="20260105104500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">PL: Fulham v Liverpool Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Fulham and Liverpool at Craven Cottage, London.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105104500 +0000" stop="20260105110000 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">PL: Newcastle United v Leeds Hls</title>
+    <desc lang="en">Highlights from Match Week 21 of the Premier League between Newcastle United and Leeds at St. James' Park, Newcastle.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105110000 +0000" stop="20260105111500 +0000" channel="Sky.Sport.2.nz">
+    <title lang="en">PL: Spurs v Sunderland Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Spurs and Sunderland at Tottenham Hotspur Stadium, London.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -2609,115 +2483,79 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101020300 +0000" stop="20260101021600 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">BBL: Hurricanes v Renegades Hls</title>
-    <desc lang="en">Highlights from the 15th match of the Big Bash League between Hobart Hurricanes and Melbourne Renegades at Ninja Stadium, Hobart.</desc>
+  <programme start="20260104113000 +0000" stop="20260104120000 +0000" channel="Sky.Sport.3.nz">
+    <title lang="en">The Ashes: 5th Test Day 1 Hls</title>
+    <desc lang="en">Highlights from Day 1 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101021600 +0000" stop="20260101023000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">BBL: Thunder v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 16th match of the Big Bash League between Sydney Thunder and Perth Scorchers at ENGIE Stadium, Sydney.</desc>
+  <programme start="20260104120000 +0000" stop="20260104140000 +0000" channel="Sky.Sport.3.nz">
+    <title lang="en">GP: Northampton Saints v Harlequins</title>
+    <desc lang="en">Coverage from Round 9 of the Gallagher Premiership between the Northampton Saints and Harlequins at cinch Stadium at Franklin's Gardens, Northampton.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101023000 +0000" stop="20260101024500 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260104140000 +0000" stop="20260104183000 +0000" channel="Sky.Sport.3.nz">
+    <title lang="en">ILT20: Final</title>
+    <desc lang="en">LIVE coverage from the Final of the International League T20 at Dubai International Cricket Stadium, Dubai.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101024500 +0000" stop="20260101045000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">PL: Manchester Utd v Wolves</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Manchester United and Wolverhampton Wanderers at Old Trafford, Stretford.</desc>
+  <programme start="20260104183000 +0000" stop="20260104201500 +0000" channel="Sky.Sport.3.nz">
+    <title lang="en">2025: ASB Classic Women's Tennis Final</title>
+    <desc lang="en">Coverage of the Finals from 2025 ASB Classic Women's International Tennis held at ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101045000 +0000" stop="20260101065000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">PL: Arsenal v Aston Villa</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Arsenal and Aston Villa at Emirates Stadium, London.</desc>
+  <programme start="20260104201500 +0000" stop="20260104221500 +0000" channel="Sky.Sport.3.nz">
+    <title lang="en">The Ashes: 5th Test Day 1 L2H</title>
+    <desc lang="en">Coverage from Day 1 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101065000 +0000" stop="20260101085500 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">PL: Chelsea v Bournemouth</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Chelsea and Bournemouth at Stamford Bridge, London.</desc>
+  <programme start="20260104221500 +0000" stop="20260105053000 +0000" channel="Sky.Sport.3.nz">
+    <title lang="en">ASB Classic Women's Tennis: GS D1</title>
+    <desc lang="en">LIVE coverage of the 2026 ASB Classic Women's International Tennis. Tune in for Day 1, from the Grandstand at the ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101085500 +0000" stop="20260101110000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">PL: West Ham v Brighton</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between West Ham and Brighton at London Stadium.</desc>
+  <programme start="20260105053000 +0000" stop="20260105073000 +0000" channel="Sky.Sport.3.nz">
+    <title lang="en">PL: Manchester City v Chelsea</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Manchester City and Chelsea at Etihad Stadium, Manchester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101110000 +0000" stop="20260101130000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">PL: Nottingham Forest v Everton</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Nottingham Forest and Everton at The City Ground, Nottingham.</desc>
+  <programme start="20260105073000 +0000" stop="20260105121500 +0000" channel="Sky.Sport.3.nz">
+    <title lang="en">BBL: Sixers v Heat</title>
+    <desc lang="en">LIVE coverage from the 24th match of the Big Bash League between Sydney Sixers and Brisbane Heat at C.ex Coffs International Stadium, Coffs Harbour.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101130000 +0000" stop="20260101150000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">PL: Burnley v Newcastle United</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Burnley and Newcastle United at Turf Moor, Burnley.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101150000 +0000" stop="20260101153000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">A-League Men: AFC v NEW R11 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101153000 +0000" stop="20260101160000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">A-League Men: WSW v MWS R11 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Western Sydney Wanderers take on Macarthur FC at Commbank Stadium, Australia.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101170000 +0000" stop="20260101190000 +0000" channel="Sky.Sport.4.nz">
+  <programme start="20260102020500 +0000" stop="20260102040000 +0000" channel="Sky.Sport.4.nz">
     <title lang="en">A-League Men: AFC v NEW R11</title>
     <desc lang="en">Coverage of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
     <category lang="en">Show</category>
@@ -2726,34 +2564,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101190000 +0000" stop="20260101193000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">A-League Men: WSW v MWS R11 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Western Sydney Wanderers take on Macarthur FC at Commbank Stadium, Australia.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101193000 +0000" stop="20260101233000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">BBL: Hurricanes v Scorchers</title>
-    <desc lang="en">Coverage from the 19th match of the Big Bash League between Hobart Hurricanes and Perth Scorchers at Ninja Stadium, Hobart.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101233000 +0000" stop="20260102033000 +0000" channel="Sky.Sport.4.nz">
-    <title lang="en">BBL: Renegades v Sixers</title>
-    <desc lang="en">Coverage from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260102033000 +0000" stop="20260102034500 +0000" channel="Sky.Sport.4.nz">
+  <programme start="20260102040000 +0000" stop="20260102041500 +0000" channel="Sky.Sport.4.nz">
     <title lang="en">PL: Crystal Palace v Fulham Hls</title>
     <desc lang="en">Highlights from Match Week 19 of the Premier League between Crystal Palace and Fulham at Selhurst Park, London.</desc>
     <category lang="en">Show</category>
@@ -2762,7 +2573,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260102034500 +0000" stop="20260102040000 +0000" channel="Sky.Sport.4.nz">
+  <programme start="20260102041500 +0000" stop="20260102043000 +0000" channel="Sky.Sport.4.nz">
     <title lang="en">PL: Liverpool v Leeds Hls</title>
     <desc lang="en">Highlights from Match Week 19 of the Premier League between Liverpool and Leeds at Anfield, Liverpool.</desc>
     <category lang="en">Show</category>
@@ -2771,7 +2582,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260102040000 +0000" stop="20260102041500 +0000" channel="Sky.Sport.4.nz">
+  <programme start="20260102043000 +0000" stop="20260102044500 +0000" channel="Sky.Sport.4.nz">
     <title lang="en">PL: Sunderland v Manchester City Hls</title>
     <desc lang="en">Highlights from Match Week 19 of the Premier League between Sunderland and Manchester City at The Stadium of Light, Sunderland.</desc>
     <category lang="en">Show</category>
@@ -2780,7 +2591,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260102041500 +0000" stop="20260102043000 +0000" channel="Sky.Sport.4.nz">
+  <programme start="20260102044500 +0000" stop="20260102050000 +0000" channel="Sky.Sport.4.nz">
     <title lang="en">PL: Brentford v Spurs Hls</title>
     <desc lang="en">Highlights from Match Week 19 of the Premier League between Brentford and Spurs at Gtech Community Stadium, Brentford.</desc>
     <category lang="en">Show</category>
@@ -2789,7 +2600,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260102043000 +0000" stop="20260102081500 +0000" channel="Sky.Sport.4.nz">
+  <programme start="20260102050000 +0000" stop="20260102080000 +0000" channel="Sky.Sport.4.nz">
     <title lang="en">World Darts Championship: D18 Aft</title>
     <desc lang="en">Coverage of the PDC World Darts Championship, Day 18 afternoon session at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
     <category lang="en">Show</category>
@@ -2798,7 +2609,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260102081500 +0000" stop="20260102120000 +0000" channel="Sky.Sport.4.nz">
+  <programme start="20260102080000 +0000" stop="20260102104500 +0000" channel="Sky.Sport.4.nz">
     <title lang="en">World Darts Championship: D18 Eve</title>
     <desc lang="en">Coverage of the PDC World Darts Championship, Day 18 evening session at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
     <category lang="en">Show</category>
@@ -2807,9 +2618,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260102120000 +0000" stop="20260102160000 +0000" channel="Sky.Sport.4.nz">
+  <programme start="20260102104500 +0000" stop="20260102140500 +0000" channel="Sky.Sport.4.nz">
     <title lang="en">BBL: Hurricanes v Scorchers</title>
     <desc lang="en">Coverage from the 19th match of the Big Bash League between Hobart Hurricanes and Perth Scorchers at Ninja Stadium, Hobart.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260102140500 +0000" stop="20260102160000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">PL: Sunderland v Manchester City</title>
+    <desc lang="en">Coverage from Match Week 19 of the Premier League between Sunderland and Manchester City at The Stadium of Light, Sunderland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -3140,153 +2960,135 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101002000 +0000" stop="20260101015500 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Supercars: Race 14</title>
-    <desc lang="en">Coverage of the Supercars Championship, Perth Super 440 Race 14. From CARCO.com.au Raceway, Wanneroo, Perth.</desc>
+  <programme start="20260104120000 +0000" stop="20260104144500 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">World Darts Championship: D20</title>
+    <desc lang="en">Coverage of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101015500 +0000" stop="20260101033000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Supercars: Race 15</title>
-    <desc lang="en">Coverage of the Supercars Championship, Perth Super 440 Race 15. From CARCO.com.au Raceway, Wanneroo, Perth.</desc>
+  <programme start="20260104144500 +0000" stop="20260104150000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">BBL: Stars v Renegades Hls</title>
+    <desc lang="en">Highlights from the 22nd match of the Big Bash League between Melbourne Stars and Melbourne Renegades at MCG, Melbourne.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101033000 +0000" stop="20260101053500 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Supercars: Race 16</title>
-    <desc lang="en">Coverage of the Supercars Championship, Perth Super 440 Race 16. From CARCO.com.au Raceway, Wanneroo, Perth.</desc>
+  <programme start="20260104150000 +0000" stop="20260104153000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">A-League Women: ADE v CCM Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Adelaide United take on Central Coast Mariners at Coopers Stadium.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101053500 +0000" stop="20260101070500 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Supercars: Race 17</title>
-    <desc lang="en">Coverage of the Supercars Championship, betr Darwin Triple Crown,Race 17. From Hidden Valley Raceway, Darwin, NT.</desc>
+  <programme start="20260104153000 +0000" stop="20260104160000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">A-League Women: MCY v SYD Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Melbourne City take on Sydney FC at ctrl:cyber Pitch.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101070500 +0000" stop="20260101083000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Supercars: Race 18</title>
-    <desc lang="en">Coverage of the Supercars Championship, betr Darwin Triple Crown,Race 18. From Hidden Valley Raceway, Darwin, NT.</desc>
+  <programme start="20260104160000 +0000" stop="20260104170000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">Dakar Rally Prologue Hls</title>
+    <desc lang="en">Highlights of the Prologue of 2026 Dakar Rally held  from Yanbu to Yanbu in Saudi Arabia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101083000 +0000" stop="20260101103500 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Supercars: Race 19</title>
-    <desc lang="en">Coverage of the Supercars Championship, betr Darwin Triple Crown,Race 19. From Hidden Valley Raceway, Darwin, NT.</desc>
+  <programme start="20260104170000 +0000" stop="20260104183000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">Tennis: United Cup: Day 3 MOTD</title>
+    <desc lang="en">Match of the Day from the 2026 United Cup — an 18-nation team tennis event where men and women compete side by side for their country.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101103500 +0000" stop="20260101115000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">FIA Formula E: Rd1 P2</title>
-    <desc lang="en">Coverage of the FIA Formula E Championship. Round 1, Practice 2. From Anhembi Sambadrome Sao Paulo, Brazil.</desc>
+  <programme start="20260104183000 +0000" stop="20260104190000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">World Darts Championship: D20 Hls</title>
+    <desc lang="en">Highlights of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101115000 +0000" stop="20260101134000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">FIA Formula E: Rd1 Qualifying</title>
-    <desc lang="en">Coverage of the FIA Formula E Championship. Round 1, Qualifying. From Anhembi Sambadrome Sao Paulo, Brazil.</desc>
+  <programme start="20260104190000 +0000" stop="20260104193000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">A-League Men: BRI v WEL R11 Ext Hls</title>
+    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Brisbane Roar take on Wellington Phoenix at Kayo Stadium, Australia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101134000 +0000" stop="20260101161000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">FIA Formula E: Round 1</title>
-    <desc lang="en">Coverage of the FIA Formula E Championship. Round 1. From Anhembi Sambadrome Sao Paulo, Brazil.</desc>
+  <programme start="20260104193000 +0000" stop="20260104200000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">A-League Men: ADE v CCM R11 Ext Hls</title>
+    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Adelaide United take on Central Coast Mariners at Coopers Stadium, Australia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101161000 +0000" stop="20260101164000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Sky Speed Best Of 2025</title>
-    <desc lang="en">Tues Dec 30th - The Best of Sky Speed for 2025.</desc>
+  <programme start="20260104200000 +0000" stop="20260104203000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">A-League Women: ADE v CCM Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Adelaide United take on Central Coast Mariners at Coopers Stadium.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101164000 +0000" stop="20260101170000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">BBL: Renegades v Sixers Hls</title>
-    <desc lang="en">Highlights from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
+  <programme start="20260104203000 +0000" stop="20260104210000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">A-League Women: MCY v SYD Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Melbourne City take on Sydney FC at ctrl:cyber Pitch.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101170000 +0000" stop="20260101173000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Sky Speed Best Of 2025</title>
-    <desc lang="en">Tues Dec 30th - The Best of Sky Speed for 2025.</desc>
+  <programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">The Ashes: 5th Test Day 1 Hls</title>
+    <desc lang="en">Highlights from Day 1 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101173000 +0000" stop="20260101183000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Asian Le Mans Series: Sepang R1 Hls</title>
-    <desc lang="en">Highlights of the Asian Le Mans Series, Round 1, 4 Hours of Sepang Race 1. From Sepang International Circuit, Sepang, Selangor, Malaysia.</desc>
+  <programme start="20260104213000 +0000" stop="20260104230000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">Tennis: United Cup: Night 3 MOTN</title>
+    <desc lang="en">Match of the Night from the 2026 United Cup — an 18-nation team tennis event where men and women compete side by side for their country.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101183000 +0000" stop="20260101193000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Asian Le Mans Series: Sepang R2 Hls</title>
-    <desc lang="en">Highlights of the Asian Le Mans Series, Round 1, 4 Hours of Sepang Race 2. From Sepang International Circuit, Sepang, Selangor, Malaysia.</desc>
+  <programme start="20260104230000 +0000" stop="20260105063000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">Tennis: United Cup: Day 4</title>
+    <desc lang="en">LIVE coverage of the 2026 United Cup — an 18-nation team tennis event where men and women compete side by side for their country. Tune in to the day session on Day 4 for the best action from Perth and Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101193000 +0000" stop="20260101204000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Supercars: Townsville 500: Race 20</title>
-    <desc lang="en">Coverage of the  Supercars Townsville 500, Race 20. From Reid Park Street Circuit Townsville, Queensland.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101204000 +0000" stop="20260101231000 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Supercars: Townsville 500: Race 21</title>
-    <desc lang="en">Coverage of the  Supercars Townsville 500, Race 21. From Reid Park Street Circuit Townsville, Queensland.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101231000 +0000" stop="20260102014500 +0000" channel="Sky.Sport.5.nz">
-    <title lang="en">Supercars: Townsville 500: Race 22</title>
-    <desc lang="en">Coverage of the  Supercars Townsville 500, Race 22. From Reid Park Street Circuit Townsville, Queensland.</desc>
+  <programme start="20260105063000 +0000" stop="20260105153000 +0000" channel="Sky.Sport.4.nz">
+    <title lang="en">Tennis: United Cup: Night 4</title>
+    <desc lang="en">LIVE coverage of the 2026 United Cup — an 18-nation team tennis event where men and women compete side by side for their country. Tune in to the night session on Day 4 for the best action from Perth and Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -3644,232 +3446,133 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101011500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">BBL: Stars v Thunder Hls</title>
-    <desc lang="en">Highlights from the 14th match of the Big Bash League between Melbourne Stars and Sydney Thunder at Corroboree Group Oval Manuka, Canberra.</desc>
+  <programme start="20260104122000 +0000" stop="20260104125000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Sky Speed Best Of 2025</title>
+    <desc lang="en">Tues Dec 30th - The Best of Sky Speed for 2025.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101011500 +0000" stop="20260101013000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">BBL: Hurricanes v Renegades Hls</title>
-    <desc lang="en">Highlights from the 15th match of the Big Bash League between Hobart Hurricanes and Melbourne Renegades at Ninja Stadium, Hobart.</desc>
+  <programme start="20260104125000 +0000" stop="20260104132000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">World Darts Championship: D20 Hls</title>
+    <desc lang="en">Highlights of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101013000 +0000" stop="20260101014500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">BBL: Thunder v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 16th match of the Big Bash League between Sydney Thunder and Perth Scorchers at ENGIE Stadium, Sydney.</desc>
+  <programme start="20260104132000 +0000" stop="20260104135000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Search4Hurt: S5 EP5</title>
+    <desc lang="en">Search4Hurt returns to be even more gruelling and entertaining than ever before as another team of everyday Aussie health and fitness enthusiasts push themselves to the ultimate limits of human potential through a range of epic training sessions,.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101014500 +0000" stop="20260101020000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260104135000 +0000" stop="20260104145000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Dakar Rally Prologue Hls</title>
+    <desc lang="en">Highlights of the Prologue of 2026 Dakar Rally held  from Yanbu to Yanbu in Saudi Arabia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101020000 +0000" stop="20260101033000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">The Ashes: 4th Test Wrap</title>
-    <desc lang="en">Wrap of Day 5 of the Ashes fourth Test Match between Australia and England at the Melbourne Cricket Ground, Melbourne.</desc>
+  <programme start="20260104145000 +0000" stop="20260104171000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">PL: Fulham v Liverpool</title>
+    <desc lang="en">LIVE coverage from Match Week 20 of the Premier League between Fulham and Liverpool at Craven Cottage, London.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101033000 +0000" stop="20260101040000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">TGL: New York v Atlanta Hls</title>
-    <desc lang="en">TGL 2026 tees off with New York facing Atlanta Drive in highlights from SoFi Center, Palm Beach Gardens, FL. Witness golf innovation at its best.</desc>
+  <programme start="20260104171000 +0000" stop="20260104181000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Dakar Rally Prologue Hls</title>
+    <desc lang="en">Highlights of the Prologue of 2026 Dakar Rally held  from Yanbu to Yanbu in Saudi Arabia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101040000 +0000" stop="20260101060000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">PL: Nottingham Forest v Everton</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Nottingham Forest and Everton at The City Ground, Nottingham.</desc>
+  <programme start="20260104181000 +0000" stop="20260104193000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Supercars: Grand Final Race 32</title>
+    <desc lang="en">Coverage of the Supercars Championship, Adelaide, Grand Final Race 32. From Adelaide Street Circuit, Adelaide, SA.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101060000 +0000" stop="20260101070000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
+  <programme start="20260104193000 +0000" stop="20260104200000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">The Ashes: 5th Test Day 1 Hls</title>
+    <desc lang="en">Highlights from Day 1 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101070000 +0000" stop="20260101083000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">The Ashes: 4th Test Wrap</title>
-    <desc lang="en">Wrap of Day 5 of the Ashes fourth Test Match between Australia and England at the Melbourne Cricket Ground, Melbourne.</desc>
+  <programme start="20260104200000 +0000" stop="20260104203000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">World Darts Championship: D20 Hls</title>
+    <desc lang="en">Highlights of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101083000 +0000" stop="20260101121000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">World Darts Championship: D17 Eve</title>
-    <desc lang="en">Coverage of the PDC World Darts Championship, Day 17 evening session at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
+  <programme start="20260104203000 +0000" stop="20260104213000 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Dakar Rally Prologue Hls</title>
+    <desc lang="en">Highlights of the Prologue of 2026 Dakar Rally held  from Yanbu to Yanbu in Saudi Arabia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101121000 +0000" stop="20260101133000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">The Ashes: 4th Test Wrap</title>
-    <desc lang="en">Wrap of Day 5 of the Ashes fourth Test Match between Australia and England at the Melbourne Cricket Ground, Melbourne.</desc>
+  <programme start="20260104213000 +0000" stop="20260105051500 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Bowls NZ National Champs D4</title>
+    <desc lang="en">LIVE coverage of Bowls New Zealand 2026: Summerset Nationals Singles and Pairs. Day 4 features Finals matches for the Women's Pairs, Open Disability Pairs and Men's Singles.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101133000 +0000" stop="20260101163000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">BBL: Strikers v Heat</title>
-    <desc lang="en">Coverage from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260105051500 +0000" stop="20260105074500 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Supercars: Grand Final Race 33</title>
+    <desc lang="en">Coverage of the Supercars Championship, Adelaide, Grand Final Race 33. From Adelaide Street Circuit, Adelaide, SA.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101163000 +0000" stop="20260101165500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">TGL: New York v Atlanta Hls</title>
-    <desc lang="en">TGL 2026 tees off with New York facing Atlanta Drive in highlights from SoFi Center, Palm Beach Gardens, FL. Witness golf innovation at its best.</desc>
+  <programme start="20260105074500 +0000" stop="20260105084500 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Dakar Rally 2026: S1 Hls</title>
+    <desc lang="en">Highlights of the Dakar Rally 2026: Stage 1 Yanbu to  Yanbu.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101165500 +0000" stop="20260101174500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
+  <programme start="20260105084500 +0000" stop="20260105111500 +0000" channel="Sky.Sport.5.nz">
+    <title lang="en">Supercars: Grand Final Race 34</title>
+    <desc lang="en">Coverage of the Supercars Championship, Adelaide, Grand Final Race 34. From Adelaide Street Circuit, Adelaide, SA.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101174500 +0000" stop="20260101181500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">A-League Men: WSW v MWS R11 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Western Sydney Wanderers take on Macarthur FC at Commbank Stadium, Australia.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101181500 +0000" stop="20260101183000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">PL: Chelsea v Bournemouth Hls</title>
-    <desc lang="en">Highlights from Match Week 19 of the Premier League between Chelsea and Bournemouth at Stamford Bridge, London.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101183000 +0000" stop="20260101184500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">PL: Burnley v Newcastle United Hls</title>
-    <desc lang="en">Highlights from Match Week 19 of the Premier League between Burnley and Newcastle United at Turf Moor, Burnley.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101184500 +0000" stop="20260101190000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">PL: Nottingham Forest v Everton Hls</title>
-    <desc lang="en">Highlights from Match Week 19 of the Premier League between Nottingham Forest and Everton at The City Ground, Nottingham.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101190000 +0000" stop="20260101191500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">PL: West Ham v Brighton Hls</title>
-    <desc lang="en">Highlights from Match Week 19 of the Premier League between West Ham and Brighton at London Stadium.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101191500 +0000" stop="20260101193000 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">PL: Manchester Utd v Wolves Hls</title>
-    <desc lang="en">Highlights from Match Week 19 of the Premier League between Manchester United and Wolverhampton Wanderers at Old Trafford, Stretford.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101193000 +0000" stop="20260101194500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">PL: Arsenal v Aston Villa Hls</title>
-    <desc lang="en">Highlights from Match Week 19 of the Premier League between Arsenal and Aston Villa at Emirates Stadium, London.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101194500 +0000" stop="20260101204500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101204500 +0000" stop="20260101211500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">TGL: New York v Atlanta Hls</title>
-    <desc lang="en">TGL 2026 tees off with New York facing Atlanta Drive in highlights from SoFi Center, Palm Beach Gardens, FL. Witness golf innovation at its best.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101211500 +0000" stop="20260101231500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">PL: Liverpool v Leeds</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Liverpool and Leeds at Anfield, Liverpool.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101231500 +0000" stop="20260102011500 +0000" channel="Sky.Sport.6.nz">
-    <title lang="en">PL: Crystal Palace v Fulham</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Crystal Palace and Fulham at Selhurst Park, London.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260102011500 +0000" stop="20260102031500 +0000" channel="Sky.Sport.6.nz">
+  <programme start="20260102012000 +0000" stop="20260102031500 +0000" channel="Sky.Sport.6.nz">
     <title lang="en">PL: Brentford v Spurs</title>
     <desc lang="en">Coverage from Match Week 19 of the Premier League between Brentford and Spurs at Gtech Community Stadium, Brentford.</desc>
     <category lang="en">Show</category>
@@ -3941,9 +3644,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260102130000 +0000" stop="20260102170000 +0000" channel="Sky.Sport.6.nz">
+  <programme start="20260102130000 +0000" stop="20260102161000 +0000" channel="Sky.Sport.6.nz">
     <title lang="en">BBL: Renegades v Sixers</title>
     <desc lang="en">Coverage from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260102161000 +0000" stop="20260102170000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">Gallagher Premiership Round 8 Hls</title>
+    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -4283,216 +3995,189 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101030000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Women: CCM v BRI</title>
-    <desc lang="en">Coverage of A-League Women 2025/26 as Central Coast Mariners take on Brisbane Roar at polytec Stadium.</desc>
+  <programme start="20260104113000 +0000" stop="20260104120000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">World Darts Championship: D20 Hls</title>
+    <desc lang="en">Highlights of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101030000 +0000" stop="20260101050000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Women: WSW v WEL</title>
-    <desc lang="en">Coverage of A-League Women 2025/26 as Western Sydney Wanderers take on Wellington Phoenix at Wanderers Football Park.</desc>
+  <programme start="20260104120000 +0000" stop="20260104140000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">GP: Northampton Saints v Harlequins</title>
+    <desc lang="en">Coverage from Round 9 of the Gallagher Premiership between the Northampton Saints and Harlequins at cinch Stadium at Franklin's Gardens, Northampton.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101050000 +0000" stop="20260101063000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">The Ashes: 4th Test Wrap</title>
-    <desc lang="en">Wrap of Day 5 of the Ashes fourth Test Match between Australia and England at the Melbourne Cricket Ground, Melbourne.</desc>
+  <programme start="20260104140000 +0000" stop="20260104141500 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">PL: Aston Villa v Nottingham Forest Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Aston Villa and Nottingham Forest at Villa Park, Birmingham.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101063000 +0000" stop="20260101083000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: CCM v BRI R10</title>
-    <desc lang="en">Coverage of A-League Men 2025/26 Round 10 as Central Coast Mariners take on Brisbane Roar at Polytec Stadium, Australia.</desc>
+  <programme start="20260104141500 +0000" stop="20260104143000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">PL: Brighton v Burnley Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Brighton and Burnley at American Express Stadium, Falmer.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101083000 +0000" stop="20260101093000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
+  <programme start="20260104143000 +0000" stop="20260104145000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">PL: Wolves v West Ham Hls</title>
+    <desc lang="en">Highlights from Match Week 20 of the Premier League between Wolves and West Ham at Molineux Stadium, Wolverhampton.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101093000 +0000" stop="20260101094500 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">BBL: Thunder v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 16th match of the Big Bash League between Sydney Thunder and Perth Scorchers at ENGIE Stadium, Sydney.</desc>
+  <programme start="20260104145000 +0000" stop="20260104171000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">PL: Spurs v Sunderland</title>
+    <desc lang="en">LIVE coverage from Match Week 20 of the Premier League between Spurs and Sunderland at Tottenham Hotspur Stadium, London.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101094500 +0000" stop="20260101100000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260104171000 +0000" stop="20260104173000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">A-League Women: BRI v WEL Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Brisbane Roar take on Wellington Phoenix at Kayo Stadium.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: NEW v MWS R10 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 10 as Newcastle Jets take on Macarthur FC at McDonald Jones Stadium, Australia.</desc>
+  <programme start="20260104173000 +0000" stop="20260104183000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">ASB Classic Women's Tennis: D4 Hls</title>
+    <desc lang="en">Highlights from Day 4 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101103000 +0000" stop="20260101110000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: ADE v WSW R10 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 10 as Adelaide United take on Western Sydney Wanderers at Coopers Stadium, Australia.</desc>
+  <programme start="20260104183000 +0000" stop="20260104193000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">ASB Classic Women's Tennis: D5 Hls</title>
+    <desc lang="en">Highlights from Day 5 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101110000 +0000" stop="20260101113000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: MCY v PER R10 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 10 as Melbourne City take on Perth Glory at AAMI Park, Australia.</desc>
+  <programme start="20260104193000 +0000" stop="20260104203000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">ASB Classic Women's Tennis: D6 Hls</title>
+    <desc lang="en">Highlights from Day 6 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101113000 +0000" stop="20260101120000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: MVC v WEL R10 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 10 as Melbourne Victory take on Wellington Phoenix at AAMI Park, Australia.</desc>
+  <programme start="20260104203000 +0000" stop="20260104213000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">ASB Classic Women's Tennis: D7 Hls</title>
+    <desc lang="en">Highlights from Day 7 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101120000 +0000" stop="20260101123000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: CCM v BRI R10 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 10 as Central Coast Mariners take on Brisbane Roar at Polytec Stadium, Australia.</desc>
+  <programme start="20260104213000 +0000" stop="20260104233000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">PL: Everton v Brentford</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Everton and Brentford at Hill Dickinson Stadium, Liverpool.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101123000 +0000" stop="20260101143000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Women: CCM v BRI</title>
-    <desc lang="en">Coverage of A-League Women 2025/26 as Central Coast Mariners take on Brisbane Roar at polytec Stadium.</desc>
+  <programme start="20260104233000 +0000" stop="20260105013000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">PL: Newcastle v Crystal Palace</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Newcastle United and Crystal Palace at St. James' Park, Newcastle.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101143000 +0000" stop="20260101144500 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: MVC v WEL R10 Hls</title>
-    <desc lang="en">Highlights of A-League Men 2025/26 Round 10 as Melbourne Victory take on Wellington Phoenix at AAMI Park, Australia.</desc>
+  <programme start="20260105013000 +0000" stop="20260105020000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">ILT20: Final Hls</title>
+    <desc lang="en">Highlights from the Final of the International League T20 at Dubai International Cricket Stadium, Dubai.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101144500 +0000" stop="20260101150000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">BBL: Renegades v Sixers Hls</title>
-    <desc lang="en">Highlights from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
+  <programme start="20260105020000 +0000" stop="20260105060000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">BBL: Scorchers v Strikers</title>
+    <desc lang="en">Coverage from the 23rd match of the Big Bash League between Perth Scorchers and Adelaide Strikers at Perth Stadium, Perth.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101150000 +0000" stop="20260101170000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">PL: Manchester Utd v Wolves</title>
-    <desc lang="en">Coverage from Match Week 19 of the Premier League between Manchester United and Wolverhampton Wanderers at Old Trafford, Stretford.</desc>
+  <programme start="20260105060000 +0000" stop="20260105063000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">World Darts Championship: D20 Hls</title>
+    <desc lang="en">Highlights of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101170000 +0000" stop="20260101171500 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: AFC v NEW R11 Hls</title>
-    <desc lang="en">Highlights of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
+  <programme start="20260105063000 +0000" stop="20260105083000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">PL: Fulham v Liverpool</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Fulham and Liverpool at Craven Cottage, London.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101171500 +0000" stop="20260101174500 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: WSW v MWS R11 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Western Sydney Wanderers take on Macarthur FC at Commbank Stadium, Australia.</desc>
+  <programme start="20260105083000 +0000" stop="20260105103000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">PL: Spurs v Sunderland</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Spurs and Sunderland at Tottenham Hotspur Stadium, London.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101174500 +0000" stop="20260101181500 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">World Darts Championship: D17 Hls</title>
-    <desc lang="en">Highlights of the PDC World Darts Championship, Day 17 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
+  <programme start="20260105103000 +0000" stop="20260105104500 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">BBL: Stars v Renegades Hls</title>
+    <desc lang="en">Highlights from the 22nd match of the Big Bash League between Melbourne Stars and Melbourne Renegades at MCG, Melbourne.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101181500 +0000" stop="20260101184500 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Women: WSW v WEL Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Women 2025/26 as Western Sydney Wanderers take on Wellington Phoenix at Wanderers Football Park.</desc>
+  <programme start="20260105104500 +0000" stop="20260105110000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">BBL: Scorchers v Strikers Hls</title>
+    <desc lang="en">Highlights from the 23rd match of the Big Bash League between Perth Scorchers and Adelaide Strikers at Perth Stadium, Perth.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101184500 +0000" stop="20260101201500 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">The Ashes: 4th Test Wrap</title>
-    <desc lang="en">Wrap of Day 5 of the Ashes fourth Test Match between Australia and England at the Melbourne Cricket Ground, Melbourne.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101201500 +0000" stop="20260101203000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">PL: Brentford v Spurs Hls</title>
-    <desc lang="en">Highlights from Match Week 19 of the Premier League between Brentford and Spurs at Gtech Community Stadium, Brentford.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101203000 +0000" stop="20260101223000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Men: CCM v BRI R10</title>
-    <desc lang="en">Coverage of A-League Men 2025/26 Round 10 as Central Coast Mariners take on Brisbane Roar at Polytec Stadium, Australia.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101223000 +0000" stop="20260102003000 +0000" channel="Sky.Sport.7.nz">
-    <title lang="en">A-League Women: CCM v BRI</title>
-    <desc lang="en">Coverage of A-League Women 2025/26 as Central Coast Mariners take on Brisbane Roar at polytec Stadium.</desc>
+  <programme start="20260105110000 +0000" stop="20260105130000 +0000" channel="Sky.Sport.6.nz">
+    <title lang="en">GP: Leicester Tigers v Saracens</title>
+    <desc lang="en">Coverage from Round 9 of the Gallagher Premiership between the Leicester Tigers and Saracens at Mattioli Woods Welford Road Stadium, Leicester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -5120,288 +4805,171 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">EP31: OLIVER GLASNER. A life-threatening head injury ended Oliver Glasner s playing career early, but it did nothing to quell his ambition. We go behind-the-scenes to reveal the makings of a manager who has achieved success throughout the past decade.</desc>
+  <programme start="20260104121500 +0000" stop="20260104141500 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">A-League Women: PER v NEW</title>
+    <desc lang="en">Coverage of A-League Women 2025/26 as Perth Glory take on Newcastle Jets at Sam Kerr Football Centre.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101003000 +0000" stop="20260101010000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">THE BIG INTERVIEW</title>
-    <desc lang="en">EP13: JEAN-PHILLIPE MATETA. Since joining Crystal Palace in 2021 from Mainz, Jean-Phillipe Mateta has gone on to make over 100 appearances for the Eagles and has established himself as a key figure in Oliver Glasner s side. Leading the line in both of the.</desc>
+  <programme start="20260104141500 +0000" stop="20260104145000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">Sky Speed Best Of 2025</title>
+    <desc lang="en">Tues Dec 30th - The Best of Sky Speed for 2025.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101020000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">THE CATCH-UP SHOW</title>
-    <desc lang="en">EP20. The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  <programme start="20260104145000 +0000" stop="20260104171000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">PL: Newcastle v Crystal Palace</title>
+    <desc lang="en">LIVE coverage from Match Week 20 of the Premier League between Newcastle United and Crystal Palace at St. James' Park, Newcastle.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101020000 +0000" stop="20260101030000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL GOATS</title>
-    <desc lang="en">EP01: AFRICAN GOATS WITH EMMANUEL ADEBAYOR. PL GOATs provides a fresh take on one of the oldest conversations in sport - just who is the greatest? Our panel will discuss and then decide with the help of archive, stats and first-hand testimony. Each episod.</desc>
+  <programme start="20260104171000 +0000" stop="20260104173000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">BBL: Scorchers v Strikers Hls</title>
+    <desc lang="en">Highlights from the 23rd match of the Big Bash League between Perth Scorchers and Adelaide Strikers at Perth Stadium, Perth.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101030000 +0000" stop="20260101033000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: Arsenal v Aston Villa. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  <programme start="20260104173000 +0000" stop="20260104193000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">GP: Leicester Tigers v Saracens</title>
+    <desc lang="en">Coverage from Round 9 of the Gallagher Premiership between the Leicester Tigers and Saracens at Mattioli Woods Welford Road Stadium, Leicester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101033000 +0000" stop="20260101040000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: Manchester United v Wolverhampton Wanderers. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  <programme start="20260104193000 +0000" stop="20260104213000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">PL: Leeds v Manchester United</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Leeds and Manchester United at Elland Road, Leeds.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101040000 +0000" stop="20260101043000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">EP30: WOLVES AFCON. We go behind the scenes with the five Wolves stars preparing to depart for the Africa Cup of Nations; one of the largest contingents of Premier League players heading to the tournament. Inside the club, they open up about the powerful.</desc>
+  <programme start="20260104213000 +0000" stop="20260104233000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">PL: Fulham v Liverpool</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Fulham and Liverpool at Craven Cottage, London.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101043000 +0000" stop="20260101050000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">EP31: OLIVER GLASNER. A life-threatening head injury ended Oliver Glasner s playing career early, but it did nothing to quell his ambition. We go behind-the-scenes to reveal the makings of a manager who has achieved success throughout the past decade.</desc>
+  <programme start="20260104233000 +0000" stop="20260105013000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">PL: Spurs v Sunderland</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Spurs and Sunderland at Tottenham Hotspur Stadium, London.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101050000 +0000" stop="20260101053000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: Burnley v Newcastle United. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  <programme start="20260105013000 +0000" stop="20260105033000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">PL: Manchester City v Chelsea</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Manchester City and Chelsea at Etihad Stadium, Manchester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101053000 +0000" stop="20260101060000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: West Ham United v Brighton &amp; Hove Albion. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  <programme start="20260105033000 +0000" stop="20260105040000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">A-League Men: AFC v NEW R11 Ext Hls</title>
+    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101060000 +0000" stop="20260101063000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">REWIND</title>
-    <desc lang="en">EP10: DION DUBLIN: MY PREMIER LEAGUE YEARS. Dion Dublin looks back at his remarkable Premier League career. From the Manchester United number 7 shirt, to prolific spells at Coventry City and Aston Villa, and all his most surprising and standout goals alon.</desc>
+  <programme start="20260105040000 +0000" stop="20260105043000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">A-League Men: WSW v MWS R11 Ext Hls</title>
+    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Western Sydney Wanderers take on Macarthur FC at Commbank Stadium, Australia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101063000 +0000" stop="20260101070000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">REWIND</title>
-    <desc lang="en">EP09: JAY-JAY OKOCHA: MY BOLTON STORY. One of the Premier League's most electrifying talents, Jay Jay Okocha lit up English football in the early 2000s. The Nigerian reflects on his time at Bolton Wanderers, where he made an unforgettable impression on th.</desc>
+  <programme start="20260105043000 +0000" stop="20260105050000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">A-League Men: MVC v PER R11 Ext Hls</title>
+    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Melbourne Victory take on Perth Glory at AAMI Park, Australia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101070000 +0000" stop="20260101080000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">THE CATCH-UP SHOW</title>
-    <desc lang="en">EP20. The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  <programme start="20260105050000 +0000" stop="20260105053000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">A-League Men: BRI v WEL R11 Ext Hls</title>
+    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Brisbane Roar take on Wellington Phoenix at Kayo Stadium, Australia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">EP31: OLIVER GLASNER. A life-threatening head injury ended Oliver Glasner s playing career early, but it did nothing to quell his ambition. We go behind-the-scenes to reveal the makings of a manager who has achieved success throughout the past decade.</desc>
+  <programme start="20260105053000 +0000" stop="20260105060000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">A-League Men: MCY v SYD R11 Ext Hls</title>
+    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Melbourne City take on Sydney FC at AAMI Park, Australia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101083000 +0000" stop="20260101090000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">EP28: REGIS LE BRIS. We join Regis Le Bris as he charts his meteoric journey from the training pitches of France to the dugout at Sunderland, where he masterminded an unlikely charge to the Premier League. Le Bris reflects on the philosophy and r.</desc>
+  <programme start="20260105060000 +0000" stop="20260105063000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">A-League Men: ADE v CCM R11 Ext Hls</title>
+    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Adelaide United take on Central Coast Mariners at Coopers Stadium, Australia.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: Chelsea v Bournemouth. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  <programme start="20260105063000 +0000" stop="20260105083000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">PL: Leeds v Manchester United</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Leeds and Manchester United at Elland Road, Leeds.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101093000 +0000" stop="20260101100000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: Nottingham Forest v Everton. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  <programme start="20260105083000 +0000" stop="20260105103000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">PL: Manchester City v Chelsea</title>
+    <desc lang="en">Coverage from Match Week 20 of the Premier League between Manchester City and Chelsea at Etihad Stadium, Manchester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: Burnley v Newcastle United. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  <programme start="20260105103000 +0000" stop="20260105110000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">A-League Women: WSW v CBR Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Western Sydney Wanderers take on Canberra United at Wanderers Football Park.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101103000 +0000" stop="20260101110000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: West Ham United v Brighton &amp; Hove Albion. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101110000 +0000" stop="20260101113000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: Arsenal v Aston Villa. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101113000 +0000" stop="20260101120000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="en">MW19: Manchester United v Wolverhampton Wanderers. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101120000 +0000" stop="20260101130000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">THE CATCH-UP SHOW</title>
-    <desc lang="en">EP20. The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101130000 +0000" stop="20260101133000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">EP31: OLIVER GLASNER. A life-threatening head injury ended Oliver Glasner s playing career early, but it did nothing to quell his ambition. We go behind-the-scenes to reveal the makings of a manager who has achieved success throughout the past decade.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101133000 +0000" stop="20260101140000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">THE BIG INTERVIEW</title>
-    <desc lang="en">EP21:. Extended sit-downs and more informal  out and about  interviews with the Premier League s biggest stars, providing players with a platform to tell their story in their own words.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101140000 +0000" stop="20260101143000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">EP30: WOLVES AFCON. We go behind the scenes with the five Wolves stars preparing to depart for the Africa Cup of Nations; one of the largest contingents of Premier League players heading to the tournament. Inside the club, they open up about the powerful.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101143000 +0000" stop="20260101153000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL GOATS</title>
-    <desc lang="en">EP01: AFRICAN GOATS WITH EMMANUEL ADEBAYOR. PL GOATs provides a fresh take on one of the oldest conversations in sport - just who is the greatest? Our panel will discuss and then decide with the help of archive, stats and first-hand testimony. Each episod.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101153000 +0000" stop="20260101160000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">EP19: YAYA TOURE. We chart the remarkable journey of one of the Premier League s most iconic midfielders, Yaya Toure, from his humble beginnings in Bouak , Ivory Coast, to his rise through European football s elite clubs. We sit down with Tour  t.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101160000 +0000" stop="20260101163000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">REWIND</title>
-    <desc lang="en">EP07: HARRY KEWELL: MY PL YEARS. Arriving in England on a scholarship at the age of 15, Harry Kewell went on to become one of the greatest Australian footballers to have played the game. He looks back at some of his most memorable Premier League moments a.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101163000 +0000" stop="20260101195000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL: Liverpool v Leeds</title>
-    <desc lang="en">LIVE coverage from Match Week 19 of the Premier League between Liverpool and Leeds at Anfield, Liverpool.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101195000 +0000" stop="20260101230000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">PL: Sunderland v Manchester City</title>
-    <desc lang="en">LIVE coverage from Match Week 19 of the Premier League between Sunderland and Manchester City at The Stadium of Light, Sunderland.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101230000 +0000" stop="20260101233000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">THE BIG INTERVIEW</title>
-    <desc lang="en">EP21:. Extended sit-downs and more informal  out and about  interviews with the Premier League s biggest stars, providing players with a platform to tell their story in their own words.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101233000 +0000" stop="20260102003000 +0000" channel="Sky.Sport.8.nz">
-    <title lang="en">THE CATCH-UP SHOW</title>
-    <desc lang="en">EP20. The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  <programme start="20260105110000 +0000" stop="20260105113000 +0000" channel="Sky.Sport.7.nz">
+    <title lang="en">A-League Women: BRI v WEL Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Brisbane Roar take on Wellington Phoenix at Kayo Stadium.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -5725,7 +5293,7 @@
   </programme>
   <programme start="20260102223000 +0000" stop="20260102230000 +0000" channel="Sky.Sport.8.nz">
     <title lang="en">THE BIG INTERVIEW</title>
-    <desc lang="en">EP21:. Extended sit-downs and more informal  out and about  interviews with the Premier League s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <desc lang="en">EP21:. Extended sit-downs and more informal out and about interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -6155,107 +5723,243 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101015000 +0000" stop="20260101045000 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">AFL</title>
+  <programme start="20260104113000 +0000" stop="20260104145000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">PL: Leeds v Manchester United</title>
+    <desc lang="en">LIVE coverage from Match Week 20 of the Premier League between Leeds and Manchester United at Elland Road, Leeds.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101045000 +0000" stop="20260101075000 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">AFL SF1: ADL v HAW</title>
-    <desc lang="en">Coverage of Finals week from the 2025 AFL 1st Semi Final as Adelaide Crows face Hawthorn from Adelaide Oval, Adelaide.</desc>
+  <programme start="20260104145000 +0000" stop="20260104172000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">Premier League: Goal Rush</title>
+    <desc lang="en">LIVE coverage of Premier League: Goal Rush centres on Fulham v Liverpool from Craven Cottage, bringing updates from across the grounds. Catch every goal key moment from Matchweek 20.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101075000 +0000" stop="20260101105000 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">AFL SF2: BRL v GLD</title>
-    <desc lang="en">Coverage of Finals week from the 2025 AFL 2nd Semi Final as Brisbane Lions take on Gold Coast Suns from Gabba, Brisbane.</desc>
+  <programme start="20260104172000 +0000" stop="20260104200000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">PL: Manchester City v Chelsea</title>
+    <desc lang="en">LIVE coverage from Match Week 20 of the Premier League between Manchester City and Chelsea at Etihad Stadium, Manchester.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101105000 +0000" stop="20260101182500 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">Bowls: World Cup Day 1</title>
-    <desc lang="en">Coverage of Bowls World Cup 2025 Day 1, the world’s top lawn bowlers descend on Kuala Lumpur, Malaysia for the inaugural Bowls World Cup, held at the prestigious Bukit Kiara National Lawn Bowl Centre.</desc>
+  <programme start="20260104200000 +0000" stop="20260104210000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">THE WEEKEND WRAP</title>
+    <desc lang="en">SUN 04 JAN. The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101182500 +0000" stop="20260101205500 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">FIA Formula E: Round 1</title>
-    <desc lang="en">Coverage of the FIA Formula E Championship. Round 1. From Anhembi Sambadrome Sao Paulo, Brazil.</desc>
+  <programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">EP21: DIMITAR BERBATOV. As far as cult hero's go, few are as beloved as Dimitar Berbatov. In a seven-year Premier League career, the Bulgarian set the league alight with his grace and elegance with the ball at his feet. This week, Berbatov sits down with.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101205500 +0000" stop="20260101212500 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">A-League Women: WSW v WEL Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Women 2025/26 as Western Sydney Wanderers take on Wellington Phoenix at Wanderers Football Park.</desc>
+  <programme start="20260104213000 +0000" stop="20260104220000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">EP31: OLIVER GLASNER. A life-threatening head injury ended Oliver Glasner s playing career early, but it did nothing to quell his ambition. We go behind-the-scenes to reveal the makings of a manager who has achieved success throughout the past decade.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101212500 +0000" stop="20260101222500 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
+  <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">PL GOATS</title>
+    <desc lang="en">EP01: AFRICAN GOATS WITH EMMANUEL ADEBAYOR. Premier League GOATs reflects on the of the finest African players to grace the Premier League with one of the best to ever do it   Emmanuel Adebayor. Having moved to England from Monaco in 2006, Adebayor went o.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101222500 +0000" stop="20260101224000 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260104230000 +0000" stop="20260105000000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">THE WEEKEND WRAP</title>
+    <desc lang="en">SUN 04 JAN. The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101224000 +0000" stop="20260101225500 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">BBL: Renegades v Sixers Hls</title>
-    <desc lang="en">Highlights from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
+  <programme start="20260105000000 +0000" stop="20260105010000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">REVIEW</title>
+    <desc lang="en">MON 05 JAN. Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101225500 +0000" stop="20260101231000 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">BBL: Hurricanes v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 19th match of the Big Bash League between Hobart Hurricanes and Perth Scorchers at Ninja Stadium, Hobart.</desc>
+  <programme start="20260105010000 +0000" stop="20260105013000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Leeds United v Manchester United. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101231000 +0000" stop="20260101234000 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">A-League Men: WSW v MWS R11 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Western Sydney Wanderers take on Macarthur FC at Commbank Stadium, Australia.</desc>
+  <programme start="20260105013000 +0000" stop="20260105020000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Fulham v Liverpool. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101234000 +0000" stop="20260102001000 +0000" channel="Sky.Sport.9.nz">
-    <title lang="en">World Darts Championship: D17 Hls</title>
-    <desc lang="en">Highlights of the PDC World Darts Championship, Day 17 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
+  <programme start="20260105020000 +0000" stop="20260105023000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Tottenham Hotspur v Sunderland. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105023000 +0000" stop="20260105030000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Newcastle United v Crystal Palace. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105030000 +0000" stop="20260105033000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Everton v Brentford. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105033000 +0000" stop="20260105040000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Manchester City v Chelsea. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105040000 +0000" stop="20260105050000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">THE WEEKEND WRAP</title>
+    <desc lang="en">SUN 04 JAN. The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105050000 +0000" stop="20260105053000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Bournemouth v Arsenal. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105053000 +0000" stop="20260105063000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">REVIEW</title>
+    <desc lang="en">MON 05 JAN. Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105063000 +0000" stop="20260105070000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Leeds United v Manchester United. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105070000 +0000" stop="20260105073000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Fulham v Liverpool. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105073000 +0000" stop="20260105080000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Tottenham Hotspur v Sunderland. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Newcastle United v Crystal Palace. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Everton v Brentford. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105090000 +0000" stop="20260105093000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Manchester City v Chelsea. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105093000 +0000" stop="20260105103000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">THE WEEKEND WRAP</title>
+    <desc lang="en">SUN 04 JAN. The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105103000 +0000" stop="20260105110000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Leeds United v Manchester United. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105110000 +0000" stop="20260105113000 +0000" channel="Sky.Sport.8.nz">
+    <title lang="en">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="en">MW20: Fulham v Liverpool. Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -6447,171 +6151,81 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101004000 +0000" stop="20260101014000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">ASB Classic Men's Tennis: D6 Hls</title>
-    <desc lang="en">Highlights from Day 6 of the 2025 ASB Classic Men’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
+  <programme start="20260104120500 +0000" stop="20260104141500 +0000" channel="Sky.Sport.9.nz">
+    <title lang="en">Supercars Sandown 500 Race 31</title>
+    <desc lang="en">Coverage of the Supercars Championship, Sandown 500, Race 31. From Sandown International Motor Raceway, Melbourne, Victoria.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101014000 +0000" stop="20260101024000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">MOTD: Laver Cup Day 1 - Day Session</title>
-    <desc lang="en">Match of the Day: Laver Cup, Day 1 - Day Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at Chase Center in San Francisco, USA.</desc>
+  <programme start="20260104141500 +0000" stop="20260104145000 +0000" channel="Sky.Sport.9.nz">
+    <title lang="en">World Darts Championship: D20 Hls</title>
+    <desc lang="en">Highlights of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101024000 +0000" stop="20260101034000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">MOTN : Laver Cup Day 1 - Night Session</title>
-    <desc lang="en">Match of the Night: Laver Cup, Day 1 - Night Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at Chase Center in San Francisco, USA.</desc>
+  <programme start="20260104145000 +0000" stop="20260104171000 +0000" channel="Sky.Sport.9.nz">
+    <title lang="en">PL: Everton v Brentford</title>
+    <desc lang="en">LIVE coverage from Match Week 20 of the Premier League between Everton and Brentford at Hill Dickinson Stadium, Liverpool.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101034000 +0000" stop="20260101044000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">MOTD: Laver Cup Day 2 - Day Session</title>
-    <desc lang="en">Match of the Day: Laver Cup, Day 2 - Day Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at Chase Center in San Francisco, USA.</desc>
+  <programme start="20260104171000 +0000" stop="20260104174000 +0000" channel="Sky.Sport.9.nz">
+    <title lang="en">A-League Women: MCY v SYD Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Melbourne City take on Sydney FC at ctrl:cyber Pitch.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101044000 +0000" stop="20260101054000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">MOTN : Laver Cup Day 2 - Night Session</title>
-    <desc lang="en">Match of the Night: Laver Cup, Day 2 - Night Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at Chase Center in San Francisco, USA.</desc>
+  <programme start="20260104174000 +0000" stop="20260104203500 +0000" channel="Sky.Sport.9.nz">
+    <title lang="en">AFL PF1: GEE v HAW</title>
+    <desc lang="en">Coverage of 2025 AFL 1st Preliminary Final as Geelong Cats take on Hawthorn from MCG, Melbourne.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101054000 +0000" stop="20260101141500 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">Laver Cup Day 3 - Day Session</title>
-    <desc lang="en">Coverage of Laver Cup, Day 3 - Day Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at at Chase Center in San Francisco, USA.</desc>
+  <programme start="20260104203500 +0000" stop="20260104233000 +0000" channel="Sky.Sport.9.nz">
+    <title lang="en">AFL PF2: COL v BRL</title>
+    <desc lang="en">Coverage of 2025 AFL 2nd Preliminary Final as Collingwood take on Brisbane Lions from MCG, Melbourne.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101141500 +0000" stop="20260101143000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">BBL: Thunder v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 16th match of the Big Bash League between Sydney Thunder and Perth Scorchers at ENGIE Stadium, Sydney.</desc>
+  <programme start="20260104233000 +0000" stop="20260105025500 +0000" channel="Sky.Sport.9.nz">
+    <title lang="en">AFL Grand Final: GEE v BRL</title>
+    <desc lang="en">Coverage of 2025 AFL Grand Final as Geelong Cats take on Brisbane Lions from MCG, Melbourne.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101143000 +0000" stop="20260101144500 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">BBL: Strikers v Heat Hls</title>
-    <desc lang="en">Highlights from the 17th match of the Big Bash League between Adelaide Strikers and Brisbane Heat at Adelaide Oval, Adelaide.</desc>
+  <programme start="20260105025500 +0000" stop="20260105100500 +0000" channel="Sky.Sport.9.nz">
+    <title lang="en">Bowls: World Cup Day 4</title>
+    <desc lang="en">Coverage of Bowls World Cup 2025 Day 4, the world’s top lawn bowlers descend on Kuala Lumpur, Malaysia for the inaugural Bowls World Cup, held at the prestigious Bukit Kiara National Lawn Bowl Centre.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260101144500 +0000" stop="20260101150000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">BBL: Renegades v Sixers Hls</title>
-    <desc lang="en">Highlights from the 18th match of the Big Bash League between Melbourne Renegades and Sydney Sixers at Marvel Stadium, Melbourne.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">Gallagher Premiership Round 8 Hls</title>
-    <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101160000 +0000" stop="20260101163000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">A-League Men: AFC v NEW R11 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Auckland FC take on Newcastle Jets at Go Media Stadium, Auckland.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101163000 +0000" stop="20260101170000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">A-League Men: WSW v MWS R11 Ext Hls</title>
-    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Western Sydney Wanderers take on Macarthur FC at Commbank Stadium, Australia.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101170000 +0000" stop="20260101180000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">MOTD: Laver Cup Day 1 - Day Session</title>
-    <desc lang="en">Match of the Day: Laver Cup, Day 1 - Day Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at Chase Center in San Francisco, USA.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101180000 +0000" stop="20260101190000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">MOTN : Laver Cup Day 1 - Night Session</title>
-    <desc lang="en">Match of the Night: Laver Cup, Day 1 - Night Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at Chase Center in San Francisco, USA.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101190000 +0000" stop="20260101200000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">MOTD: Laver Cup Day 2 - Day Session</title>
-    <desc lang="en">Match of the Day: Laver Cup, Day 2 - Day Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at Chase Center in San Francisco, USA.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101200000 +0000" stop="20260101210000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">MOTN : Laver Cup Day 2 - Night Session</title>
-    <desc lang="en">Match of the Night: Laver Cup, Day 2 - Night Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at Chase Center in San Francisco, USA.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101210000 +0000" stop="20260101220000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">MOTD : Laver Cup Day 3 - Day Session</title>
-    <desc lang="en">Match of the Night: Laver Cup, Day 3 - Day Session featuring 6 of the best tennis players from Europe against 6 of their international counterparts held at Chase Center in San Francisco, USA.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101220000 +0000" stop="20260101234500 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">Tennis: Battle Of The Sexes</title>
-    <desc lang="en">52 years after the original iconic Battle of the Sexes match, WTA World No. 1 Aryna Sabalenka has challenged tennis's ultimate showman and competitor, Nick Kyrgios, to an epic showdown in Dubai. Be part of history as this iconic match is reimagined.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260101234500 +0000" stop="20260102000000 +0000" channel="Sky.Sport.Select.nz">
-    <title lang="en">BBL: Hurricanes v Scorchers Hls</title>
-    <desc lang="en">Highlights from the 19th match of the Big Bash League between Hobart Hurricanes and Perth Scorchers at Ninja Stadium, Hobart.</desc>
+  <programme start="20260105100500 +0000" stop="20260105154500 +0000" channel="Sky.Sport.9.nz">
+    <title lang="en">Bowls: World Cup Day 5 Finals</title>
+    <desc lang="en">Coverage of Bowls World Cup 2025 Day 5 Finals, the world’s top lawn bowlers descend on Kuala Lumpur, Malaysia for the inaugural Bowls World Cup, held at the prestigious Bukit Kiara National Lawn Bowl Centre.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
@@ -6735,7 +6349,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260102060000 +0000" stop="20260102100000 +0000" channel="Sky.Sport.Select.nz">
+  <programme start="20260102060000 +0000" stop="20260102100500 +0000" channel="Sky.Sport.Select.nz">
     <title lang="en">ILT20: Eliminator: Capitals v KRs</title>
     <desc lang="en">Coverage from the Eliminator of the International League T20 at Dubai International Cricket Stadium, Dubai. Dubai Capitals v Abu Dhabi Knight Riders.</desc>
     <category lang="en">Show</category>
@@ -6744,7 +6358,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260102100000 +0000" stop="20260102110000 +0000" channel="Sky.Sport.Select.nz">
+  <programme start="20260102100500 +0000" stop="20260102110000 +0000" channel="Sky.Sport.Select.nz">
     <title lang="en">Gallagher Premiership Round 8 Hls</title>
     <desc lang="en">Highlights from Round 8 of the Gallagher Premiership.</desc>
     <category lang="en">Show</category>
@@ -7314,6 +6928,204 @@
   <programme start="20260104103000 +0000" stop="20260104113000 +0000" channel="Sky.Sport.Select.nz">
     <title lang="en">ASB Classic Women's Tennis: D2 Hls</title>
     <desc lang="en">Highlights from Day 2 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104113000 +0000" stop="20260104123000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">ASB Classic Women's Tennis: D3 Hls</title>
+    <desc lang="en">Highlights from Day 3 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104123000 +0000" stop="20260104133000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">ASB Classic Women's Tennis: D4 Hls</title>
+    <desc lang="en">Highlights from Day 4 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104133000 +0000" stop="20260104143000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">ASB Classic Women's Tennis: D5 Hls</title>
+    <desc lang="en">Highlights from Day 5 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104143000 +0000" stop="20260104153000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">ASB Classic Women's Tennis: D6 Hls</title>
+    <desc lang="en">Highlights from Day 6 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104153000 +0000" stop="20260104163000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">ASB Classic Women's Tennis: D7 Hls</title>
+    <desc lang="en">Highlights from Day 7 of the 2025 ASB Classic Women’s International Tennis from the ASB Manuka Doctor Arena, Auckland.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104163000 +0000" stop="20260104170000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">A-League Women: ADE v CCM Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Adelaide United take on Central Coast Mariners at Coopers Stadium.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104170000 +0000" stop="20260104173000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">The Ashes: 5th Test Day 1 Hls</title>
+    <desc lang="en">Highlights from Day 1 of the Ashes fifth Test Match between Australia and England at the Sydney Cricket Ground, Sydney.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104173000 +0000" stop="20260104180000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">A-League Women: MCY v SYD Hls</title>
+    <desc lang="en">Highlights of A-League Women 2025/26 as Melbourne City take on Sydney FC at ctrl:cyber Pitch.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104180000 +0000" stop="20260104181500 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">BBL: Stars v Renegades Hls</title>
+    <desc lang="en">Highlights from the 22nd match of the Big Bash League between Melbourne Stars and Melbourne Renegades at MCG, Melbourne.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104181500 +0000" stop="20260104183000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">BBL: Scorchers v Strikers Hls</title>
+    <desc lang="en">Highlights from the 23rd match of the Big Bash League between Perth Scorchers and Adelaide Strikers at Perth Stadium, Perth.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104183000 +0000" stop="20260104200000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">Tennis: United Cup: Day 3 MOTD</title>
+    <desc lang="en">Match of the Day from the 2026 United Cup — an 18-nation team tennis event where men and women compete side by side for their country.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104200000 +0000" stop="20260104213000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">Tennis: United Cup: Night 3 MOTN</title>
+    <desc lang="en">Match of the Night from the 2026 United Cup — an 18-nation team tennis event where men and women compete side by side for their country.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104213000 +0000" stop="20260104220000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">World Darts Championship: D20 Hls</title>
+    <desc lang="en">Highlights of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260104220000 +0000" stop="20260105000000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">GP: Leicester Tigers v Saracens</title>
+    <desc lang="en">Coverage from Round 9 of the Gallagher Premiership between the Leicester Tigers and Saracens at Mattioli Woods Welford Road Stadium, Leicester.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105000000 +0000" stop="20260105024500 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">World Darts Championship: D20</title>
+    <desc lang="en">Coverage of the PDC World Darts Championship, Day 20 at Alexandra Palace, London. The world's biggest Darts tournament will see 128 players from around the world competing across 20 days of action for the Eric Bristow Trophy.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105024500 +0000" stop="20260105031500 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">A-League Men: BRI v WEL R11 Ext Hls</title>
+    <desc lang="en">Extended highlights of A-League Men 2025/26 Round 11 as Brisbane Roar take on Wellington Phoenix at Kayo Stadium, Australia.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105031500 +0000" stop="20260105033000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">GP: Leicester Tigers v Saracens Hls</title>
+    <desc lang="en">Highlights from Round 9 of the Gallagher Premiership between the Leicester Tigers and Saracens at Mattioli Woods Welford Road Stadium, Leicester.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105033000 +0000" stop="20260105034500 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">BBL: Stars v Renegades Hls</title>
+    <desc lang="en">Highlights from the 22nd match of the Big Bash League between Melbourne Stars and Melbourne Renegades at MCG, Melbourne.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105034500 +0000" stop="20260105040000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">BBL: Scorchers v Strikers Hls</title>
+    <desc lang="en">Highlights from the 23rd match of the Big Bash League between Perth Scorchers and Adelaide Strikers at Perth Stadium, Perth.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105040000 +0000" stop="20260105060000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">GP: Leicester Tigers v Saracens</title>
+    <desc lang="en">Coverage from Round 9 of the Gallagher Premiership between the Leicester Tigers and Saracens at Mattioli Woods Welford Road Stadium, Leicester.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105060000 +0000" stop="20260105100000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">ILT20: Final</title>
+    <desc lang="en">Coverage from the Final of the International League T20 at Dubai International Cricket Stadium, Dubai.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260105100000 +0000" stop="20260105113000 +0000" channel="Sky.Sport.Select.nz">
+    <title lang="en">ASB Classic Women's Tennis: D1 MOTD</title>
+    <desc lang="en">Match of the day from Day 1 of the 2026 ASB Classic Women’s International Tennis at the ASB Manuka Doctor Arena, Auckland.</desc>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
     <rating system="NZ">
